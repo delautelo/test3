@@ -1,2 +1,3 @@
 add text in file1 from local laptop
 add text2 in file1 from repo
+add test text 3 in file1 from repo after git init
